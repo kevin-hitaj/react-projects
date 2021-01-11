@@ -1,0 +1,36 @@
+export DB_HOST='localhost'
+export DB_PORT=27017
+export DB_NAME=lootie-dev
+export DB_USER=
+export DB_PASS=
+
+export GOOGLE_CLIENT_ID=
+export STEAM_API_KEY=
+export OPSKINS_API_KEY=
+export OPSKINS_CLIENT_ID=
+export OPSKINS_CLIENT_SECRET=
+export HASH_SECRET=
+export AWS_ACCESS_KEY=
+export AWS_SECRET_ACCESS_KEY=
+export AWS_REGION=
+export S3_BUCKET=
+export SYSTEM_EMAIL=
+export STEAM_PRICE_API_KEY=
+export STOCKX_EMAIL=
+export STOCKX_PASS=
+export ENV='dev'
+export COINPAYMENTS_IPN_SECRET=
+export FACEBOOK_APP_ID=
+export FACEBOOK_APP_SECRET=
+export CRAWLER_PROXY_URL=
+export AFTERSHIP_WH_SECRET=
+export AFTERSHIP_API_KEY=
+export G2A_API_HASH=
+export G2A_API_SECRET=
+export COINBASE_API_KEY=
+export COINBASE_WEBHOOK_SECRET=
+export LOG_DB_URL=
+export PROXY_API_KEY=
+export DB_URL=
+
+npm run dev
